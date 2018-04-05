@@ -1,0 +1,29 @@
+ 
+<%# <nav class="navbar navbar-dark bg-dark navbar-expand">
+  <span class="navbar-brand">
+    Task Scheduler
+  </span>
+  <ul class="navbar-nav mr-auto">
+    <li class="nav-item active"> <a href="#" class="nav-link"> Tasks </a> </li>
+    <li class="nav-item"> <a href="#" class="nav-link"> All Users </a> </li>
+  </ul>
+  <span class="navbar-text">
+    user@host
+  </span>
+</nav> %>
+
+<%# <div class="row">
+  <div class="col">
+    <p>&nbsp;</p>
+    <h1>Your Tasks</h1>
+    
+  </div>
+</div> %>
+ <div class="col">
+    <h1>Taskapp</h1>
+    <div id="root">
+      <p>React app not loaded...</p>
+    </div>
+  </div>
+</div>
+
